@@ -9,9 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomReverse-Replace", "Cu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseEachWordChallenge", "ReverseEachWordChallenge\ReverseEachWordChallenge.csproj", "{FB8F61C0-3FAA-41EB-8C0F-2FEEBA66915C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq-All-Any", "Linq-All-Any\Linq-All-Any.csproj", "{A1FB0E6C-0B51-478C-8CE3-FF6C6E861E50}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.1 Validate_string_Linq-All-Any", "Linq-All-Any\1.1 Validate_string_Linq-All-Any.csproj", "{A1FB0E6C-0B51-478C-8CE3-FF6C6E861E50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Normalise-String", "Normalise-String\Normalise-String.csproj", "{7F336693-B3B2-497D-9A7A-9054E73C9FA8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.2_Normalise-String", "Normalise-String\1.2_Normalise-String.csproj", "{7F336693-B3B2-497D-9A7A-9054E73C9FA8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

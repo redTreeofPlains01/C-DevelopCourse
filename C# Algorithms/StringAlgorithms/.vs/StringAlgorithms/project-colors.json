@@ -18,12 +18,12 @@
     },
     "a1fb0e6c-0b51-478c-8ce3-ff6c6e861e50": {
       "ProjectGuid": "a1fb0e6c-0b51-478c-8ce3-ff6c6e861e50",
-      "DisplayName": "Linq-All-Any",
+      "DisplayName": "1.1 Validate_string_Linq-All-Any",
       "ColorIndex": 3
     },
     "7f336693-b3b2-497d-9a7a-9054e73c9fa8": {
       "ProjectGuid": "7f336693-b3b2-497d-9a7a-9054e73c9fa8",
-      "DisplayName": "Normalise-String",
+      "DisplayName": "1.2_Normalise-String",
       "ColorIndex": 4
     }
   },

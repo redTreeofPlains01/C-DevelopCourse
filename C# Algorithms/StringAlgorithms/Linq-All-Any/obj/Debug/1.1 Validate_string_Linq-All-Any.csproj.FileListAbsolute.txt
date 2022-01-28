@@ -1,0 +1,8 @@
+C:\GitHub\C-DevelopCourse\C# Algorithms\StringAlgorithms\Linq-All-Any\bin\Debug\Linq-All-Any.exe.config
+C:\GitHub\C-DevelopCourse\C# Algorithms\StringAlgorithms\Linq-All-Any\bin\Debug\Linq-All-Any.exe
+C:\GitHub\C-DevelopCourse\C# Algorithms\StringAlgorithms\Linq-All-Any\bin\Debug\Linq-All-Any.pdb
+C:\GitHub\C-DevelopCourse\C# Algorithms\StringAlgorithms\Linq-All-Any\obj\Debug\1.1 Validate_string_Linq-All-Any.csproj.AssemblyReference.cache
+C:\GitHub\C-DevelopCourse\C# Algorithms\StringAlgorithms\Linq-All-Any\obj\Debug\1.1 Validate_string_Linq-All-Any.csproj.SuggestedBindingRedirects.cache
+C:\GitHub\C-DevelopCourse\C# Algorithms\StringAlgorithms\Linq-All-Any\obj\Debug\1.1 Validate_string_Linq-All-Any.csproj.CoreCompileInputs.cache
+C:\GitHub\C-DevelopCourse\C# Algorithms\StringAlgorithms\Linq-All-Any\obj\Debug\Linq-All-Any.exe
+C:\GitHub\C-DevelopCourse\C# Algorithms\StringAlgorithms\Linq-All-Any\obj\Debug\Linq-All-Any.pdb

@@ -1,0 +1,7 @@
+C:\GitHub\C-DevelopCourse\C# Algorithms\StringAlgorithms\Normalise-String\bin\Debug\Normalise-String.exe.config
+C:\GitHub\C-DevelopCourse\C# Algorithms\StringAlgorithms\Normalise-String\bin\Debug\Normalise-String.exe
+C:\GitHub\C-DevelopCourse\C# Algorithms\StringAlgorithms\Normalise-String\bin\Debug\Normalise-String.pdb
+C:\GitHub\C-DevelopCourse\C# Algorithms\StringAlgorithms\Normalise-String\obj\Debug\1.2_Normalise-String.csproj.SuggestedBindingRedirects.cache
+C:\GitHub\C-DevelopCourse\C# Algorithms\StringAlgorithms\Normalise-String\obj\Debug\1.2_Normalise-String.csproj.CoreCompileInputs.cache
+C:\GitHub\C-DevelopCourse\C# Algorithms\StringAlgorithms\Normalise-String\obj\Debug\Normalise-String.exe
+C:\GitHub\C-DevelopCourse\C# Algorithms\StringAlgorithms\Normalise-String\obj\Debug\Normalise-String.pdb

@@ -10,7 +10,7 @@ namespace Linq_All_Any
     {
         static Boolean IsUppercase(string s)
         {
-            return s.All(char.IsUpper);
+            return s.All(char.IsUpper);//  Linq method "input.all"
         }
 
         static Boolean IsLowercase(string s)
@@ -19,7 +19,7 @@ namespace Linq_All_Any
         }
 
         static Boolean isPasswordComplex(string s)
-        {
+        {//the "any method"
             return s.Any(char.IsUpper) && s.Any(char.IsLower)
                 && s.Any(char.IsDigit);
         }
@@ -38,6 +38,8 @@ namespace Linq_All_Any
             Console.WriteLine(isPasswordComplex("HeLlo"));
             Console.WriteLine(isPasswordComplex("hello"));
             Console.WriteLine(isPasswordComplex(" "));
+
+            Console.ReadLine(); 
         }
 
     }
