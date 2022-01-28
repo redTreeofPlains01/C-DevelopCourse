@@ -1,0 +1,8 @@
+C:\GitHub_pilot\Become a C# Developer\C# Algorithms\StringAlgorithms\CustomReverse-Replace\bin\Debug\CustomReverse-Replace.exe.config
+C:\GitHub_pilot\Become a C# Developer\C# Algorithms\StringAlgorithms\CustomReverse-Replace\bin\Debug\CustomReverse-Replace.exe
+C:\GitHub_pilot\Become a C# Developer\C# Algorithms\StringAlgorithms\CustomReverse-Replace\bin\Debug\CustomReverse-Replace.pdb
+C:\GitHub_pilot\Become a C# Developer\C# Algorithms\StringAlgorithms\CustomReverse-Replace\obj\Debug\CustomReverse-Replace.csproj.AssemblyReference.cache
+C:\GitHub_pilot\Become a C# Developer\C# Algorithms\StringAlgorithms\CustomReverse-Replace\obj\Debug\CustomReverse-Replace.csproj.SuggestedBindingRedirects.cache
+C:\GitHub_pilot\Become a C# Developer\C# Algorithms\StringAlgorithms\CustomReverse-Replace\obj\Debug\CustomReverse-Replace.csproj.CoreCompileInputs.cache
+C:\GitHub_pilot\Become a C# Developer\C# Algorithms\StringAlgorithms\CustomReverse-Replace\obj\Debug\CustomReverse-Replace.exe
+C:\GitHub_pilot\Become a C# Developer\C# Algorithms\StringAlgorithms\CustomReverse-Replace\obj\Debug\CustomReverse-Replace.pdb

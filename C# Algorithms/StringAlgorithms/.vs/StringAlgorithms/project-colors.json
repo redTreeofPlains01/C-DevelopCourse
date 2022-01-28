@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1602182e-4f86-40f4-8ff5-ac6d317be1a2": {
+      "ProjectGuid": "1602182e-4f86-40f4-8ff5-ac6d317be1a2",
+      "DisplayName": "Parse-IsAtEvenIndex",
+      "ColorIndex": 0
+    },
+    "a38d316f-6717-4b24-9982-a707e654dd2c": {
+      "ProjectGuid": "a38d316f-6717-4b24-9982-a707e654dd2c",
+      "DisplayName": "CustomReverse-Replace",
+      "ColorIndex": 1
+    },
+    "fb8f61c0-3faa-41eb-8c0f-2feeba66915c": {
+      "ProjectGuid": "fb8f61c0-3faa-41eb-8c0f-2feeba66915c",
+      "DisplayName": "ReverseEachWordChallenge",
+      "ColorIndex": 2
+    },
+    "a1fb0e6c-0b51-478c-8ce3-ff6c6e861e50": {
+      "ProjectGuid": "a1fb0e6c-0b51-478c-8ce3-ff6c6e861e50",
+      "DisplayName": "Linq-All-Any",
+      "ColorIndex": 3
+    },
+    "7f336693-b3b2-497d-9a7a-9054e73c9fa8": {
+      "ProjectGuid": "7f336693-b3b2-497d-9a7a-9054e73c9fa8",
+      "DisplayName": "Normalise-String",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

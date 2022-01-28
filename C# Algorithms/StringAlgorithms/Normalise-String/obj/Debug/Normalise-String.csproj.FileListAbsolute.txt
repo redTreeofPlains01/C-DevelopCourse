@@ -1,0 +1,8 @@
+C:\GitHub_pilot\Become a C# Developer\C# Algorithms\StringAlgorithms\Normalise-String\bin\Debug\Normalise-String.exe.config
+C:\GitHub_pilot\Become a C# Developer\C# Algorithms\StringAlgorithms\Normalise-String\bin\Debug\Normalise-String.exe
+C:\GitHub_pilot\Become a C# Developer\C# Algorithms\StringAlgorithms\Normalise-String\bin\Debug\Normalise-String.pdb
+C:\GitHub_pilot\Become a C# Developer\C# Algorithms\StringAlgorithms\Normalise-String\obj\Debug\Normalise-String.csproj.AssemblyReference.cache
+C:\GitHub_pilot\Become a C# Developer\C# Algorithms\StringAlgorithms\Normalise-String\obj\Debug\Normalise-String.csproj.SuggestedBindingRedirects.cache
+C:\GitHub_pilot\Become a C# Developer\C# Algorithms\StringAlgorithms\Normalise-String\obj\Debug\Normalise-String.csproj.CoreCompileInputs.cache
+C:\GitHub_pilot\Become a C# Developer\C# Algorithms\StringAlgorithms\Normalise-String\obj\Debug\Normalise-String.exe
+C:\GitHub_pilot\Become a C# Developer\C# Algorithms\StringAlgorithms\Normalise-String\obj\Debug\Normalise-String.pdb

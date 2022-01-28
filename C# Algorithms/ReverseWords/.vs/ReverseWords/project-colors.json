@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0a8eb098-9827-4c8e-a795-921d4ba7b6ca": {
+      "ProjectGuid": "0a8eb098-9827-4c8e-a795-921d4ba7b6ca",
+      "DisplayName": "ReverseWords",
+      "ColorIndex": 0
+    },
+    "5d123696-b756-43b4-9d15-06ffc3d02962": {
+      "ProjectGuid": "5d123696-b756-43b4-9d15-06ffc3d02962",
+      "DisplayName": "ValidateStrings",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

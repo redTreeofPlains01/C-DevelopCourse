@@ -1,0 +1,7 @@
+D:\GitHub preupload\Become a C# Developer\C# Algorithms\ReverseWords\ValidateStrings\bin\Debug\ValidateStrings.exe.config
+D:\GitHub preupload\Become a C# Developer\C# Algorithms\ReverseWords\ValidateStrings\bin\Debug\ValidateStrings.exe
+D:\GitHub preupload\Become a C# Developer\C# Algorithms\ReverseWords\ValidateStrings\bin\Debug\ValidateStrings.pdb
+D:\GitHub preupload\Become a C# Developer\C# Algorithms\ReverseWords\ValidateStrings\obj\Debug\ValidateStrings.csproj.SuggestedBindingRedirects.cache
+D:\GitHub preupload\Become a C# Developer\C# Algorithms\ReverseWords\ValidateStrings\obj\Debug\ValidateStrings.csproj.CoreCompileInputs.cache
+D:\GitHub preupload\Become a C# Developer\C# Algorithms\ReverseWords\ValidateStrings\obj\Debug\ValidateStrings.exe
+D:\GitHub preupload\Become a C# Developer\C# Algorithms\ReverseWords\ValidateStrings\obj\Debug\ValidateStrings.pdb

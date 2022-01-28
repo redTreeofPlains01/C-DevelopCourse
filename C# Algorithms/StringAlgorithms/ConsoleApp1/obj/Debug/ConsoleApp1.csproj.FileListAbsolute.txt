@@ -1,0 +1,8 @@
+C:\GitHub_pilot\Become a C# Developer\C# Algorithms\StringAlgorithms\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\GitHub_pilot\Become a C# Developer\C# Algorithms\StringAlgorithms\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\GitHub_pilot\Become a C# Developer\C# Algorithms\StringAlgorithms\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\GitHub_pilot\Become a C# Developer\C# Algorithms\StringAlgorithms\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\GitHub_pilot\Become a C# Developer\C# Algorithms\StringAlgorithms\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\GitHub_pilot\Become a C# Developer\C# Algorithms\StringAlgorithms\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\GitHub_pilot\Become a C# Developer\C# Algorithms\StringAlgorithms\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\GitHub_pilot\Become a C# Developer\C# Algorithms\StringAlgorithms\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

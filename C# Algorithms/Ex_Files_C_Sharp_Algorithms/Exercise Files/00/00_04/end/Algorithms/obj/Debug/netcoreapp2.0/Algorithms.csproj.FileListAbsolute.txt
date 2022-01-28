@@ -1,0 +1,23 @@
+/Users/author/Desktop/Algorithms/bin/Debug/netcoreapp2.0/Algorithms.deps.json
+/Users/author/Desktop/Algorithms/bin/Debug/netcoreapp2.0/Algorithms.runtimeconfig.json
+/Users/author/Desktop/Algorithms/bin/Debug/netcoreapp2.0/Algorithms.runtimeconfig.dev.json
+/Users/author/Desktop/Algorithms/bin/Debug/netcoreapp2.0/Algorithms.dll
+/Users/author/Desktop/Algorithms/bin/Debug/netcoreapp2.0/Algorithms.pdb
+/Users/author/Desktop/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.csproj.CoreCompileInputs.cache
+/Users/author/Desktop/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.AssemblyInfoInputs.cache
+/Users/author/Desktop/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.AssemblyInfo.cs
+/Users/author/Desktop/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.dll
+/Users/author/Desktop/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.pdb
+D:\GitHub preupload\Become a C# Developer\C# Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\00\00_04\end\Algorithms\bin\Debug\netcoreapp2.0\Algorithms.deps.json
+D:\GitHub preupload\Become a C# Developer\C# Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\00\00_04\end\Algorithms\bin\Debug\netcoreapp2.0\Algorithms.runtimeconfig.json
+D:\GitHub preupload\Become a C# Developer\C# Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\00\00_04\end\Algorithms\bin\Debug\netcoreapp2.0\Algorithms.runtimeconfig.dev.json
+D:\GitHub preupload\Become a C# Developer\C# Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\00\00_04\end\Algorithms\bin\Debug\netcoreapp2.0\Algorithms.dll
+D:\GitHub preupload\Become a C# Developer\C# Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\00\00_04\end\Algorithms\bin\Debug\netcoreapp2.0\Algorithms.pdb
+D:\GitHub preupload\Become a C# Developer\C# Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\00\00_04\end\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.csproj.AssemblyReference.cache
+D:\GitHub preupload\Become a C# Developer\C# Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\00\00_04\end\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub preupload\Become a C# Developer\C# Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\00\00_04\end\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.AssemblyInfoInputs.cache
+D:\GitHub preupload\Become a C# Developer\C# Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\00\00_04\end\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.AssemblyInfo.cs
+D:\GitHub preupload\Become a C# Developer\C# Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\00\00_04\end\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.csproj.CoreCompileInputs.cache
+D:\GitHub preupload\Become a C# Developer\C# Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\00\00_04\end\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.dll
+D:\GitHub preupload\Become a C# Developer\C# Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\00\00_04\end\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.pdb
+D:\GitHub preupload\Become a C# Developer\C# Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\00\00_04\end\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.genruntimeconfig.cache

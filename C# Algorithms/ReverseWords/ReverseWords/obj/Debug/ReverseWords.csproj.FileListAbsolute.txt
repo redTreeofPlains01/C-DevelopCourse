@@ -1,0 +1,8 @@
+D:\GitHub preupload\Become a C# Developer\C# Algorithms\ReverseWords\ReverseWords\bin\Debug\ReverseWords.exe.config
+D:\GitHub preupload\Become a C# Developer\C# Algorithms\ReverseWords\ReverseWords\bin\Debug\ReverseWords.exe
+D:\GitHub preupload\Become a C# Developer\C# Algorithms\ReverseWords\ReverseWords\bin\Debug\ReverseWords.pdb
+D:\GitHub preupload\Become a C# Developer\C# Algorithms\ReverseWords\ReverseWords\obj\Debug\ReverseWords.csproj.AssemblyReference.cache
+D:\GitHub preupload\Become a C# Developer\C# Algorithms\ReverseWords\ReverseWords\obj\Debug\ReverseWords.csproj.SuggestedBindingRedirects.cache
+D:\GitHub preupload\Become a C# Developer\C# Algorithms\ReverseWords\ReverseWords\obj\Debug\ReverseWords.csproj.CoreCompileInputs.cache
+D:\GitHub preupload\Become a C# Developer\C# Algorithms\ReverseWords\ReverseWords\obj\Debug\ReverseWords.exe
+D:\GitHub preupload\Become a C# Developer\C# Algorithms\ReverseWords\ReverseWords\obj\Debug\ReverseWords.pdb

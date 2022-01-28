@@ -1,0 +1,8 @@
+C:\GitHub_pilot\Become a C# Developer\C# Algorithms\StringAlgorithms\ReverseEachWordChallenge\bin\Debug\ReverseEachWordChallenge.exe.config
+C:\GitHub_pilot\Become a C# Developer\C# Algorithms\StringAlgorithms\ReverseEachWordChallenge\bin\Debug\ReverseEachWordChallenge.exe
+C:\GitHub_pilot\Become a C# Developer\C# Algorithms\StringAlgorithms\ReverseEachWordChallenge\bin\Debug\ReverseEachWordChallenge.pdb
+C:\GitHub_pilot\Become a C# Developer\C# Algorithms\StringAlgorithms\ReverseEachWordChallenge\obj\Debug\ReverseEachWordChallenge.csproj.AssemblyReference.cache
+C:\GitHub_pilot\Become a C# Developer\C# Algorithms\StringAlgorithms\ReverseEachWordChallenge\obj\Debug\ReverseEachWordChallenge.csproj.SuggestedBindingRedirects.cache
+C:\GitHub_pilot\Become a C# Developer\C# Algorithms\StringAlgorithms\ReverseEachWordChallenge\obj\Debug\ReverseEachWordChallenge.csproj.CoreCompileInputs.cache
+C:\GitHub_pilot\Become a C# Developer\C# Algorithms\StringAlgorithms\ReverseEachWordChallenge\obj\Debug\ReverseEachWordChallenge.exe
+C:\GitHub_pilot\Become a C# Developer\C# Algorithms\StringAlgorithms\ReverseEachWordChallenge\obj\Debug\ReverseEachWordChallenge.pdb
