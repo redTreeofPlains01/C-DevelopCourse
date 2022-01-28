@@ -3,17 +3,17 @@
   "ProjectMap": {
     "1602182e-4f86-40f4-8ff5-ac6d317be1a2": {
       "ProjectGuid": "1602182e-4f86-40f4-8ff5-ac6d317be1a2",
-      "DisplayName": "Parse-IsAtEvenIndex",
+      "DisplayName": "1.3 Parse and Search-IsAtEvenIndex",
       "ColorIndex": 0
     },
     "a38d316f-6717-4b24-9982-a707e654dd2c": {
       "ProjectGuid": "a38d316f-6717-4b24-9982-a707e654dd2c",
-      "DisplayName": "CustomReverse-Replace",
+      "DisplayName": "1.4 _CustomReverse-Replace",
       "ColorIndex": 1
     },
     "fb8f61c0-3faa-41eb-8c0f-2feeba66915c": {
       "ProjectGuid": "fb8f61c0-3faa-41eb-8c0f-2feeba66915c",
-      "DisplayName": "ReverseEachWordChallenge",
+      "DisplayName": "1.5_ReverseEachWordChallenge",
       "ColorIndex": 2
     },
     "a1fb0e6c-0b51-478c-8ce3-ff6c6e861e50": {
@@ -25,6 +25,11 @@
       "ProjectGuid": "7f336693-b3b2-497d-9a7a-9054e73c9fa8",
       "DisplayName": "1.2_Normalise-String",
       "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
   "NextColorIndex": 5
