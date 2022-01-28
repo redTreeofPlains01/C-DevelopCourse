@@ -1,0 +1,8 @@
+C:\GitHub\C-DevelopCourse\C# Algorithms\StringAlgorithms\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\GitHub\C-DevelopCourse\C# Algorithms\StringAlgorithms\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\GitHub\C-DevelopCourse\C# Algorithms\StringAlgorithms\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\GitHub\C-DevelopCourse\C# Algorithms\StringAlgorithms\ConsoleApp1\obj\Debug\1.3 Parse and Search-IsAtEvenIndex.csproj.AssemblyReference.cache
+C:\GitHub\C-DevelopCourse\C# Algorithms\StringAlgorithms\ConsoleApp1\obj\Debug\1.3 Parse and Search-IsAtEvenIndex.csproj.SuggestedBindingRedirects.cache
+C:\GitHub\C-DevelopCourse\C# Algorithms\StringAlgorithms\ConsoleApp1\obj\Debug\1.3 Parse and Search-IsAtEvenIndex.csproj.CoreCompileInputs.cache
+C:\GitHub\C-DevelopCourse\C# Algorithms\StringAlgorithms\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\GitHub\C-DevelopCourse\C# Algorithms\StringAlgorithms\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

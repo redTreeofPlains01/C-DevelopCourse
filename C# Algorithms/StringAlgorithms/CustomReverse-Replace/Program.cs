@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
+using System.Text;  //for stringbuilder
 using System.Threading.Tasks;
 
 namespace CustomReverse_Replace
@@ -15,9 +15,15 @@ namespace CustomReverse_Replace
             {
                 return input;
             }
-            //stringbuilder is more efficient than just string
+            //!! using string uses many unecessary data becos string is immutable. tf use: stringbuilder-
+            //!! Stringbuilder works differently to string in memory- expands dynamically and does not create new mwmory
+            //string creats new memory each time string is modified.
+            //is more efficient than just string
             StringBuilder reversed= new StringBuilder(input.Length);
             //here we want to go reverse from the end and decrement i
+
+            //go thru the string backwards and then append to new variable- start at last index, decrement until zero
+            // !! start at last index ; decrement until zero ; decrement
             for (int i = input.Length -1 ; i >= 0; i--)
             {
                 reversed.Append(input[i]);
@@ -25,7 +31,7 @@ namespace CustomReverse_Replace
             return reversed.ToString();
         }
 
-
+        //Making use of Array which has a reverse method
         static string Reverse2(string input)
         {
             if (String.IsNullOrEmpty(input))

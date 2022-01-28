@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parse-IsAtEvenIndex", "ConsoleApp1\Parse-IsAtEvenIndex.csproj", "{1602182E-4F86-40F4-8FF5-AC6D317BE1A2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.3 Parse and Search-IsAtEvenIndex", "ConsoleApp1\1.3 Parse and Search-IsAtEvenIndex.csproj", "{1602182E-4F86-40F4-8FF5-AC6D317BE1A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomReverse-Replace", "CustomReverse-Replace\CustomReverse-Replace.csproj", "{A38D316F-6717-4B24-9982-A707E654DD2C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.4 _CustomReverse-Replace", "CustomReverse-Replace\1.4 _CustomReverse-Replace.csproj", "{A38D316F-6717-4B24-9982-A707E654DD2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseEachWordChallenge", "ReverseEachWordChallenge\ReverseEachWordChallenge.csproj", "{FB8F61C0-3FAA-41EB-8C0F-2FEEBA66915C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.5_ReverseEachWordChallenge", "ReverseEachWordChallenge\1.5_ReverseEachWordChallenge.csproj", "{FB8F61C0-3FAA-41EB-8C0F-2FEEBA66915C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.1 Validate_string_Linq-All-Any", "Linq-All-Any\1.1 Validate_string_Linq-All-Any.csproj", "{A1FB0E6C-0B51-478C-8CE3-FF6C6E861E50}"
 EndProject
