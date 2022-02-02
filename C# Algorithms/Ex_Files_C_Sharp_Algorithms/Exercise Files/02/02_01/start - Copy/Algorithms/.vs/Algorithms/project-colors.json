@@ -10,7 +10,12 @@
       "ProjectGuid": "a180bddc-94ec-4145-b689-688794d55199",
       "DisplayName": "Algorithms",
       "ColorIndex": 1
+    },
+    "7f52e884-8ff6-4d03-a710-66c1f7025956": {
+      "ProjectGuid": "7f52e884-8ff6-4d03-a710-66c1f7025956",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }

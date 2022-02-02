@@ -1,0 +1,8 @@
+C:\GitHub\C-DevelopCourse\C# Algorithms\2_ArrayAlgorithms\2_1_Linear_Search\2_1_Linear_Search\obj\Debug\2_1_Linear_Search.csproj.AssemblyReference.cache
+C:\GitHub\C-DevelopCourse\C# Algorithms\2_ArrayAlgorithms\2_1_Linear_Search\2_1_Linear_Search\obj\Debug\2_1_Linear_Search.csproj.SuggestedBindingRedirects.cache
+C:\GitHub\C-DevelopCourse\C# Algorithms\2_ArrayAlgorithms\2_1_Linear_Search\2_1_Linear_Search\obj\Debug\2_1_Linear_Search.csproj.CoreCompileInputs.cache
+C:\GitHub\C-DevelopCourse\C# Algorithms\2_ArrayAlgorithms\2_1_Linear_Search\2_1_Linear_Search\bin\Debug\2_1_Linear_Search.exe.config
+C:\GitHub\C-DevelopCourse\C# Algorithms\2_ArrayAlgorithms\2_1_Linear_Search\2_1_Linear_Search\bin\Debug\2_1_Linear_Search.exe
+C:\GitHub\C-DevelopCourse\C# Algorithms\2_ArrayAlgorithms\2_1_Linear_Search\2_1_Linear_Search\bin\Debug\2_1_Linear_Search.pdb
+C:\GitHub\C-DevelopCourse\C# Algorithms\2_ArrayAlgorithms\2_1_Linear_Search\2_1_Linear_Search\obj\Debug\2_1_Linear_Search.exe
+C:\GitHub\C-DevelopCourse\C# Algorithms\2_ArrayAlgorithms\2_1_Linear_Search\2_1_Linear_Search\obj\Debug\2_1_Linear_Search.pdb
