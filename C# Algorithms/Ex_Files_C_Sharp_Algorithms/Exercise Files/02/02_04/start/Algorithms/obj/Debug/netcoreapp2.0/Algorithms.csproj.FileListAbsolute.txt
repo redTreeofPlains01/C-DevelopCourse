@@ -8,3 +8,16 @@
 /Users/author/Desktop/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.AssemblyInfo.cs
 /Users/author/Desktop/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.dll
 /Users/author/Desktop/Algorithms/obj/Debug/netcoreapp2.0/Algorithms.pdb
+C:\GitHub\C-DevelopCourse\C# Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\02\02_04\start\Algorithms\bin\Debug\netcoreapp2.0\Algorithms.deps.json
+C:\GitHub\C-DevelopCourse\C# Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\02\02_04\start\Algorithms\bin\Debug\netcoreapp2.0\Algorithms.runtimeconfig.json
+C:\GitHub\C-DevelopCourse\C# Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\02\02_04\start\Algorithms\bin\Debug\netcoreapp2.0\Algorithms.runtimeconfig.dev.json
+C:\GitHub\C-DevelopCourse\C# Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\02\02_04\start\Algorithms\bin\Debug\netcoreapp2.0\Algorithms.dll
+C:\GitHub\C-DevelopCourse\C# Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\02\02_04\start\Algorithms\bin\Debug\netcoreapp2.0\Algorithms.pdb
+C:\GitHub\C-DevelopCourse\C# Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\02\02_04\start\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.csproj.AssemblyReference.cache
+C:\GitHub\C-DevelopCourse\C# Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\02\02_04\start\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\C-DevelopCourse\C# Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\02\02_04\start\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.AssemblyInfoInputs.cache
+C:\GitHub\C-DevelopCourse\C# Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\02\02_04\start\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.AssemblyInfo.cs
+C:\GitHub\C-DevelopCourse\C# Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\02\02_04\start\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.csproj.CoreCompileInputs.cache
+C:\GitHub\C-DevelopCourse\C# Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\02\02_04\start\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.dll
+C:\GitHub\C-DevelopCourse\C# Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\02\02_04\start\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.pdb
+C:\GitHub\C-DevelopCourse\C# Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\02\02_04\start\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.genruntimeconfig.cache
