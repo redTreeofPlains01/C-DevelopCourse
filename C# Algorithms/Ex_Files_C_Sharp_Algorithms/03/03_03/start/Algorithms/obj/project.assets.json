@@ -664,32 +664,36 @@
     ]
   },
   "packageFolders": {
-    "/Users/author/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\heeki\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/author/Desktop/Algorithms/Algorithms.csproj",
+      "projectUniqueName": "C:\\GitHub\\C-DevelopCourse\\C# Algorithms\\Ex_Files_C_Sharp_Algorithms\\03\\03_03\\start\\Algorithms\\Algorithms.csproj",
       "projectName": "Algorithms",
-      "projectPath": "/Users/author/Desktop/Algorithms/Algorithms.csproj",
-      "packagesPath": "/Users/author/.nuget/packages/",
-      "outputPath": "/Users/author/Desktop/Algorithms/obj/",
+      "projectPath": "C:\\GitHub\\C-DevelopCourse\\C# Algorithms\\Ex_Files_C_Sharp_Algorithms\\03\\03_03\\start\\Algorithms\\Algorithms.csproj",
+      "packagesPath": "C:\\Users\\heeki\\.nuget\\packages\\",
+      "outputPath": "C:\\GitHub\\C-DevelopCourse\\C# Algorithms\\Ex_Files_C_Sharp_Algorithms\\03\\03_03\\start\\Algorithms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "/Users/author/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\heeki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
           "projectReferences": {}
         }
       },
@@ -701,18 +705,26 @@
     },
     "frameworks": {
       "netcoreapp2.0": {
+        "targetAlias": "netcoreapp2.0",
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
-            "version": "2.0.0",
+            "version": "[2.0.0, )",
             "autoReferenced": true
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
