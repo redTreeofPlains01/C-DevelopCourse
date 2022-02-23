@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "rwwA7fpRsiMXkfv0TLFaX40zkt/kiOUMmxBBiBFA06au/PZPi+hzkH5s24vUCZR1opepZnWQ3aq2y8lHY/XqmA==",
+  "success": true,
+  "projectFilePath": "C:\\GitHub\\C-DevelopCourse\\C# Algorithms\\Ex_Files_C_Sharp_Algorithms\\03\\03_02\\start\\Algorithms\\Algorithms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\heeki\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\heeki\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\heeki\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\heeki\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\heeki\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\heeki\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
